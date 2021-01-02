@@ -1,3 +1,7 @@
+# Backend
+You may use the backend which is being hosted [here](http://amazon-cfunc.herokuapp.com/).
+However, you can make the backend youself as well. The code the backend is [here](http://github.com/VatsalNarwal/amazon-clone-react-backend-js)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
